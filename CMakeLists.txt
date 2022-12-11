@@ -3,4 +3,4 @@ project(C___essentials)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(C___essentials hello-world.cpp)
+add_executable(C___essentials fundamentals/main.cpp)

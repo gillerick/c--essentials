@@ -1,3 +1,17 @@
 # ninja log v5
+2	1159	1670763318556616622	CMakeFiles/C___essentials.dir/input-and-output.cpp.o	70dce515f9af2f6f
+0	1283	1670762942571255792	CMakeFiles/C___essentials.dir/hello-world.cpp.o	3a250d5600d469bd
+1	188	1670763417427281968	build.ninja	548a55ee9f9db47e
 0	1478	1670762425006686320	CMakeFiles/C___essentials.dir/main.cpp.o	be9b9d5eec9b941b
-1481	1577	1670762425109958101	C___essentials	bd4b486e864c99d8
+1284	1440	1670762942733214145	C___essentials	4954b506bc62fa5c
+1	184	1670763417427281968	build.ninja	548a55ee9f9db47e
+0	979	1670763418422934509	CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o	ff5368bea60509e
+979	1056	1670763418504269588	C___essentials	5834da8e3c8aa108
+2	1044	1670763437784599225	CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o	ff5368bea60509e
+1044	1134	1670763437877873568	C___essentials	5834da8e3c8aa108
+2	1003	1670763499928183875	CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o	ff5368bea60509e
+1003	1095	1670763500024551699	C___essentials	5834da8e3c8aa108
+13	1209	1670763528192846248	CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o	ff5368bea60509e
+1209	1297	1670763528285370790	C___essentials	5834da8e3c8aa108
+3	1195	1670763574743138925	CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o	ff5368bea60509e
+1195	1288	1670763574842732372	C___essentials	5834da8e3c8aa108
