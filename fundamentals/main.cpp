@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int mai() {
     std::cout << "Hello, World!" << std::endl; // Method 1
     printf("Hello, World\n"); // Method 2
 
@@ -28,8 +28,5 @@ int main() {
     scanf("%d %lld %c %f %lf", &integer, &long_int, &character, &float_num, &double_num);
     printf("%d\n%lld\n%c\n%f\n%lf", integer, long_int, character, float_num, double_num);
     return 0;
-
-    return 0;
-
 
 }

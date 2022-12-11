@@ -52,6 +52,12 @@ build CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o: CXX_COMPILER__C___e
   OBJECT_DIR = CMakeFiles/C___essentials.dir
   OBJECT_FILE_DIR = CMakeFiles/C___essentials.dir/fundamentals
 
+build CMakeFiles/C___essentials.dir/advanced/simple-server.cpp.o: CXX_COMPILER__C___essentials_Debug /Users/gill/CLionProjects/C++-essentials/advanced/simple-server.cpp || cmake_object_order_depends_target_C___essentials
+  DEP_FILE = CMakeFiles/C___essentials.dir/advanced/simple-server.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/C___essentials.dir
+  OBJECT_FILE_DIR = CMakeFiles/C___essentials.dir/advanced
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C___essentials
@@ -60,7 +66,7 @@ build CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o: CXX_COMPILER__C___e
 #############################################
 # Link the executable C___essentials
 
-build C___essentials: CXX_EXECUTABLE_LINKER__C___essentials_Debug CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o
+build C___essentials: CXX_EXECUTABLE_LINKER__C___essentials_Debug CMakeFiles/C___essentials.dir/fundamentals/main.cpp.o CMakeFiles/C___essentials.dir/advanced/simple-server.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/C___essentials.dir
   POST_BUILD = :
