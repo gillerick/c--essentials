@@ -19,6 +19,16 @@ int main() {
     cin >> a >> b >> c;
     cout << "Sum of the three integers is " << a + b + c << endl;
 
+    // Format specifiers: taking in and printing out numerous user inputs
+    int integer;
+    int64_t long_int;
+    char character;
+    float float_num;
+    double double_num;
+    scanf("%d %lld %c %f %lf", &integer, &long_int, &character, &float_num, &double_num);
+    printf("%d\n%lld\n%c\n%f\n%lf", integer, long_int, character, float_num, double_num);
+    return 0;
+
     return 0;
 
 
