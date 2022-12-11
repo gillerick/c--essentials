@@ -1,0 +1,3 @@
+/Users/gill/CLionProjects/C++-essentials/cmake-build-debug/CMakeFiles/C___essentials.dir
+/Users/gill/CLionProjects/C++-essentials/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gill/CLionProjects/C++-essentials/cmake-build-debug/CMakeFiles/rebuild_cache.dir
